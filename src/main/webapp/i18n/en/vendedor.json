@@ -1,0 +1,24 @@
+{
+  "concesionario2App": {
+    "vendedor": {
+      "home": {
+        "title": "Salesmen",
+        "createLabel": "Create a new salesman",
+        "createOrEditLabel": "Create or edit a salesman",
+        "notFound": "No salesman found"
+      },
+      "created": "A new salesman is created with identifier {{ param }}",
+      "updated": "A salesman is updated with identifier {{ param }}",
+      "deleted": "A salesman is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete salesman {{ id }}?"
+      },
+      "detail": {
+        "title": "Salesmen"
+      },
+      "nombre": "Name",
+      "dni": "IN",
+      "totalVentas": "Total Sales"
+    }
+  }
+}

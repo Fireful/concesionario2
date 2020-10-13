@@ -16,11 +16,12 @@
       "detail": {
         "title": "Cars"
       },
-      "marca": "Manufacturer",
+      "marca": "Brand",
       "anio": "Year",
       "electrico": "Hybrid",
       "precio": "Price",
-      "venta_id": "# Sale"
+      "venta_id": "# Sale",
+      "disponible": "Available"
     }
   }
 }

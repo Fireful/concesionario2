@@ -12,9 +12,7 @@ describe('Service Tests', () => {
     let expectedResult: ICoche | ICoche[] | boolean | null;
 
     beforeEach(() => {
-      TestBed.configureTestingModule({
-        imports: [HttpClientTestingModule],
-      });
+      TestBed.configureTestingModule({ imports: [HttpClientTestingModule] });
       expectedResult = null;
       injector = getTestBed();
       service = injector.get(CocheService);

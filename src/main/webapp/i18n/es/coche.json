@@ -20,7 +20,8 @@
       "anio": "Año",
       "electrico": "Electrico",
       "precio": "Precio",
-      "venta_id": "Nº Venta"
+      "venta_id": "Nº Venta",
+      "disponible": "Disponible"
     }
   }
 }
